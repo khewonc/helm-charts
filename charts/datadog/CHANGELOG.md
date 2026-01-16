@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 3.160.5
+
+* test
+
 ## 3.160.4
 
 * Add "watch" permission for cluster roles and cluster role bindings in the Cluster Agent RBAC when the CSPM feature is enabled.
