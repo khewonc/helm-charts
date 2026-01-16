@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 3.160.10
+
+* test 10
+
 ## 3.160.9
 
 * test 9
